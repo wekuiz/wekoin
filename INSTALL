@@ -1,9 +1,9 @@
-Building Litecoin
+Building Wekoin
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building Wekoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Wekoin.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building wekoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Wekoin.
