@@ -1,6 +1,5 @@
 src/*.exe
 src/wekoin
-src/wekoind
 src/test_wekoin
 .*.swp
 *.*~*
